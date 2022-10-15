@@ -38,7 +38,7 @@
             "value": ""
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "قم بوضع كود بايروجرام هنا",
             "required": true
         },
         "SUDO_USERS": {
