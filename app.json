@@ -1,7 +1,8 @@
 {
     "name": " زيزو ميوزك",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/e9258f1ae714616d2cdbb.jpg",
+    "logo": "
+    ",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
